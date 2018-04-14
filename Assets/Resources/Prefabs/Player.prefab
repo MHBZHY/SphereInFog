@@ -112,6 +112,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
+  sideDistanceControl: 0
+  firstGroundBlock: {fileID: 1241304098895528, guid: 0592cc07bc4e6470b97edfd5de4c38ee,
+    type: 2}
+  firstPrefabName: 
+  stageNum: 
 --- !u!135 &135208231859627008
 SphereCollider:
   m_ObjectHideFlags: 1
